@@ -1,0 +1,20 @@
+{
+  "name": "PicUp It",
+  "description": "Free image hosting platform with Karma reputation system",
+  "version": "1.0.0.1",
+  "manifest_version": 2,
+  "app": {
+   "urls": [
+   "https://picup.it/"
+   ],
+   "launch": {
+    "web_url": "https://picup.it/"
+  }
+  },
+  "icons": {
+    "16": "icon_16.png",
+    "48": "icon_48.png",
+    "128": "icon_128.png"
+    }
+  }
+
