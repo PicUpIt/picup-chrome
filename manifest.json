@@ -1,7 +1,8 @@
 {
-  "name": "PicUp It",
+  "name": "PicUp It - Pictures Hosting Where Karma Matters",
+  "short_name": "PicUp It",
   "description": "Free image hosting platform with Karma reputation system",
-  "version": "1.0.0.1",
+  "version": "1.0.0.2",
   "manifest_version": 2,
   "app": {
    "urls": [
